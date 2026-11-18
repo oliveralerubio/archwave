@@ -1,0 +1,39 @@
+mode = "dark"
+
+# Archwave (vaporwave) adaptado a Omarchy 4.
+# El repo original (davidguttman/archwave) era de Omarchy 3 y no traía colors.toml,
+# así que la barra, los bordes y las apps quedaban sin pintar. Colores sacados de su
+# alacritty.toml.
+
+accent = "#ff6ec7"
+selection = "#3d2560"
+muted = "#7a5f99"
+
+background = "#1a0d2e"
+dark_background = "#140a24"
+darker_background = "#0e061a"
+lighter_background = "#2d1b4e"
+
+foreground = "#d4a5ff"
+dark_foreground = "#a88bc9"
+light_foreground = "#e6c8ff"
+bright_foreground = "#fef6ff"
+
+red = "#ff6ec7"
+yellow = "#f9f871"
+orange = "#ffb38a"
+green = "#5ffbf1"
+cyan = "#5ffbf1"
+blue = "#8b9aff"
+magenta = "#f4a5ff"
+brown = "#a2734b"
+
+bright_red = "#ff9adc"
+bright_yellow = "#fbf9a5"
+bright_green = "#8ffef4"
+bright_cyan = "#8ffef4"
+bright_blue = "#b8c1ff"
+bright_magenta = "#ffc8ff"
+
+hyprland_active_border = "rgba(ff6ec7ee) rgba(5ffbf1ee) 45deg"
+hyprland_inactive_border = "rgba(2d1b4eaa)"
